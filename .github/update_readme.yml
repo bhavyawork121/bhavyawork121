@@ -1,0 +1,45 @@
+name: Update Profile README
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update README
+
+    steps:
+      # Step 1: Check out your repository
+      - uses: actions/checkout@v3
+      
+      # Step 2: Blog Post Workflow (Recent Activity)
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "activity"
+          feed_list: "https://github.com/bhavyawork121.atom"
+          max_post_count: 5
+          template: |
+            $newline - $randomEmoji(💯,🔥,💫,🚀,💡) [$title]($url) - $date
+          date_format: "mmm d, yyyy"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Step 3: Pac-Man Contribution Graph Generator
+      # THIS IS THE CORRECTED LINE
+      - uses: joshluff/github-profile-pacman@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PACMAN_USER: 'bhavyawork121'
+          PACMAN_FILE: 'output/pacman-contribution-graph.svg'
+          PACMAN_DARK_FILE: 'output/pacman-contribution-graph-dark.svg'
+          
+      # Step 4: Commit & Push changes
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update recent activity and Pac-Man graph"
+          git push
