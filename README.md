@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm Bhavya</h1>
-<h3 align="center">A passionate developer and cyber security enthusiast</h3>
-
 ###
+
+<h3 align="center">Recent GitHub Activity</h3>
+<p align="center"><i>Loading recent activity...</i></p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
