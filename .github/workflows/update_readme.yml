@@ -26,7 +26,7 @@ jobs:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           
       # Step 2: Pac-Man Contribution Graph Generator
-      - uses: joshluff/github-profile-pacman@v1
+      - uses: joshluff/pacman-action@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PACMAN_USER: 'bhavyawork121'
