@@ -13,7 +13,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-
+      
+      # Step 1: Blog Post Workflow (Recent Activity)
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "activity"
@@ -23,20 +24,20 @@ jobs:
             $newline - $randomEmoji(💯,🔥,💫,🚀,💡) [$title]($url) - $date
           date_format: "mmm d, yyyy"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: Platane/snk@v3
+          
+      # Step 2: Pac-Man Contribution Graph Generator
+      - uses: joshluff/pacman-action@v1
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          PACMAN_USER: 'bhavyawork121'
+          PACMAN_FILE: 'output/pacman-contribution-graph.svg'
+          PACMAN_DARK_FILE: 'output/pacman-contribution-graph-dark.svg'
+          
+      # Step 3: Commit & Push changes
       - name: Commit & Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git diff-index --quiet HEAD || git commit -m "Update recent activity and contribution snake"
+          git diff-index --quiet HEAD || git commit -m "Update recent activity and Pac-Man graph"
           git push
