@@ -1,7 +1,6 @@
 # Bhavya Agarwal
 
-**Aspiring Software Engineer — Secure Web Development & Open Source**  
-Faridabad, India · +91 8595859351  
+**Aspiring Software Engineer — Secure Web Development & Open Source**    
 [Email](mailto:bhavyawork121@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bhavya-agarwal-75ba70303/) · [GitHub](https://github.com/bhavyawork121) · [LeetCode](https://leetcode.com/u/Bhavya_works/) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/bhavyawwcsu/) · [Holopin Badges](https://www.holopin.io/userbadge/cmh93jskj007vl404rj3qcauk)
 
 ---
