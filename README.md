@@ -45,6 +45,7 @@ Vidya Niketan Public School, Faridabad. :contentReference[oaicite:4]{index=4}
 **Web-based educational platform**  
 - Built a comprehensive study application for 8th–10th grade students using **HTML, CSS, JavaScript**.  
 - Features: rich-text note-making, curated educational resources, embedded video lectures. :contentReference[oaicite:7]{index=7}
+- https://mindbender4-0.onrender.com/index.html
 
 **Other repos / references**
 - Job Portal (collaboration / contribution): [Khushi-Nigam/jobportal](https://github.com/Khushi-Nigam/jobportal). :contentReference[oaicite:8]{index=8}
@@ -68,11 +69,3 @@ Vidya Niketan Public School, Faridabad. :contentReference[oaicite:4]{index=4}
 :contentReference[oaicite:10]{index=10}
 
 ---
-
-## ✨ Notes / Suggestions
-1. Consider linking the **Study Quest** repo(s) (if available) and adding short screenshots or a demo link to increase impact.  
-2. Add short descriptions (1–2 lines) under each GitHub repo in your profile to make the portfolio easy to scan.  
-3. If you want, I can:
-   - convert this README into a polished GitHub profile README (with badges, icons, and optional GIFs), or  
-   - generate a `README.md` file you can download and commit to any repo.  
-   (If yes, tell me which style you prefer and I’ll produce it directly.)
