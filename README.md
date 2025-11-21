@@ -80,7 +80,7 @@ I am a **2nd-year B.Tech Computer Science** student at **K.R. Mangalam Universit
 ### 🏆 Badges
 
 <div align="center">
-  <a href="https://www.holopin.io/@cmh93jskj007vl404rj3qcauk">
-    <img src="https://holopin.me/cmh93jskj007vl404rj3qcauk" alt="Bhavya's Holopin Badges" />
+  <a href="https://www.holopin.io/userbadge/cmh93jskj007vl404rj3qcauk">
+    <img src="https://img.shields.io/badge/View_Holopin_Badges-41454A?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin Badges" />
   </a>
-</div>  
+</div> 
