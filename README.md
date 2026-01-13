@@ -5,9 +5,9 @@
 ---
 
 ### 🚀 Professional Summary
-* [cite_start]**Specialization:** AI & ML with a focus on solving complex technical problems[cite: 3, 5].
-* [cite_start]**Experience:** Skilled in full-stack web development and contributing to open-source projects[cite: 4].
-* [cite_start]**Focus:** Passionate about learning emerging technologies and optimizing system performance[cite: 5].
+**Specialization:** AI & ML with a focus on solving complex technical problems[cite: 3, 5].
+**Experience:** Skilled in full-stack web development and contributing to open-source projects[cite: 4].
+**Focus:** Passionate about learning emerging technologies and optimizing system performance[cite: 5].
 
 ---
 
