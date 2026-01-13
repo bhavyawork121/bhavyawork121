@@ -1,15 +1,19 @@
+<div align="center">
+
 # 👋 Hi, I'm Bhavya Agarwal
 
-<p align="left">
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
 
 ### 🚀 Professional Summary
-I am a detail-oriented **B.Tech student specializing in Artificial Intelligence and Machine Learning**. I have a strong foundation in software development, data structures, and network security. I am passionate about building full-stack web applications, real-time data analytics systems, and contributing to open-source projects.
+Detail-oriented B.Tech student specializing in Artificial Intelligence and Machine Learning. 
+Strong foundations in software development, data structures, and network security. 
+Experienced in building full-stack web applications and real-time data analytics.
+
+</div>
 
 ---
 
@@ -38,7 +42,7 @@ I am a detail-oriented **B.Tech student specializing in Artificial Intelligence 
 * Developed modular and reusable components with a responsive UI.
 
 #### 📚 **Study Quest Interactive Study App** | *HTML, CSS, JavaScript*
-* Developed a study platform for high-school students featuring notes and video lessons.
+* Developed a study platform featuring notes and video lessons.
 * Implemented a responsive UI and optimized load time by 30%.
 
 ---
