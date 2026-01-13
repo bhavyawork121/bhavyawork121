@@ -1,13 +1,15 @@
 # 👋 Hi, I'm Bhavya Agarwal
 
-I am a detail-oriented **B.Tech student specializing in Artificial Intelligence and Machine Learning**. I have a strong foundation in software development, data structures, and network security, with a passion for building full-stack applications and real-time data analytics systems.
+<p align="left">
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🚀 Professional Summary
-* **Specialization:** AI & ML with a focus on solving complex technical problems.
-* **Experience:** Skilled in full-stack web development and contributing to open-source projects.
-* **Focus:** Passionate about learning emerging technologies and optimizing system performance.
+I am a detail-oriented **B.Tech student specializing in Artificial Intelligence and Machine Learning**. I have a strong foundation in software development, data structures, and network security. I am passionate about building full-stack web applications, real-time data analytics systems, and contributing to open-source projects.
 
 ---
 
@@ -24,36 +26,45 @@ I am a detail-oriented **B.Tech student specializing in Artificial Intelligence 
 
 ### 📂 Featured Projects
 
-#### **Netwatch Sniffer** | *C++, Python, Libpcap, Streamlit*
+#### 🛡️ **Netwatch Sniffer** | *C++, Python, Libpcap, Streamlit*
 * Developed a high-performance network packet sniffer using C++ and libpcap.
-* Implemented a producer-consumer architecture featuring structured JSON logs.
-* Built a real-time analytics dashboard and optimized log handling for large-scale data.
+* Implemented a producer-consumer architecture with structured JSON logs.
+* Built a real-time analytics dashboard using Python and Streamlit.
+* Optimized log handling for large-scale packet data.
 
-#### **Club Management Dashboard** | *Next.js, TypeScript, D3.js, TailwindCSS*
-* Designed an interactive dashboard for tracking event participation and analytics.
-* Integrated dynamic visualizations using D3.js and Recharts.
-* Developed a responsive UI with modular, reusable components using TailwindCSS.
+#### 📊 **Club Management Dashboard** | *Next.js, TypeScript, D3.js, TailwindCSS*
+* Designed an interactive dashboard for event participation and analytics.
+* Integrated D3.js and Recharts for dynamic visualizations.
+* Developed modular and reusable components with a responsive UI.
 
-#### **Study Quest Interactive Study App** | *HTML, CSS, JavaScript*
+#### 📚 **Study Quest Interactive Study App** | *HTML, CSS, JavaScript*
 * Developed a study platform for high-school students featuring notes and video lessons.
-* Implemented a responsive UI and optimized application load times by 30%.
+* Implemented a responsive UI and optimized load time by 30%.
 
 ---
 
-### 🌐 Open Source & Experience
+### 🌐 Experience & Open Source
 
-* **Hacktoberfest 2025 (Open Source Contributor):** Improved documentation and UI/UX across repositories while merging 3+ pull requests.
-* **GirlScript Summer of Code (Campus Ambassador & Participant):** Enhanced front-end responsiveness for a job portal and promoted open-source culture on campus.
+* **Hacktoberfest 2025** (Open Source Contributor)
+    * Improved documentation and UI/UX across repositories.
+    * Created and merged 3+ pull requests using GitHub workflows.
+* **GirlScript Summer of Code** (Campus Ambassador & Participant)
+    * Improved front-end responsiveness for a job portal.
+    * Collaborated with maintainers to resolve bugs.
 
 ---
 
 ### 🎓 Education & Certifications
-* **B.Tech in AI & ML** - K.R. Mangalam University (Expected 2028)
+* **Bachelor of Technology in AI & ML** - K.R. Mangalam University (Expected 2028)
 * **Senior Secondary (CBSE)** - Vidya Niketan Public School (2023)
-* **Certifications:** Python & SQL Intermediate (HackerRank), Git & GitHub Essentials, Web Development Fundamentals.
+* **Certifications:**
+    * Python & SQL Intermediate (HackerRank)
+    * Git & GitHub Essentials
+    * Web Development Fundamentals
 
 ---
 
-### 📫 Connect with Me
-* **Career Interests:** Software Development, AI/ML, Backend & Systems Engineering, Open Source.
-* [LinkedIn] | [LeetCode] | [GitHub]
+### 🎯 Career Interests
+* Software Development & Open Source Development
+* Artificial Intelligence & Machine Learning
+* Backend & Systems Engineering
