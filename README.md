@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhavya Agarwal
 
-[cite_start]I am a detail-oriented **B.Tech student specializing in Artificial Intelligence and Machine Learning**[cite: 3, 7]. [cite_start]I have a strong foundation in software development, data structures, and network security, with a passion for building full-stack applications and real-time data analytics systems[cite: 3, 4].
+I am a detail-oriented **B.Tech student specializing in Artificial Intelligence and Machine Learning**[cite: 3, 7]. [cite_start]I have a strong foundation in software development, data structures, and network security, with a passion for building full-stack applications and real-time data analytics systems[cite: 3, 4].
 
 ---
 
