@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Bhavya Agarwal! 👋</h1>
-  <h3>🚀 Aspiring Software Engineer | Secure Web Development | Open Source Enthusiast</h3>
+  <h3>🚀 B.Tech AI & ML Student | Risk Systems Developer | D3.js Enthusiast</h3>
 
   <br/>
 
@@ -13,9 +13,6 @@
   <a href="https://leetcode.com/u/Bhavya_works/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/bhavyawwcsu/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
 </div>
 
 <br/>
@@ -24,38 +21,31 @@
 
 ### 👩‍💻 About Me
 
-I am a **2nd-year B.Tech Computer Science** student at **K.R. Mangalam University** with a strong foundation in **C++** and **Python**. My passion lies at the intersection of Full-Stack Development and Cybersecurity. I am actively contributing to open-source and building secure web applications.
+I am a **2nd-year B.Tech student specializing in Artificial Intelligence and Machine Learning** at **K.R. [cite_start]Mangalam University**[cite: 7, 11]. [cite_start]With a strong foundation in software development and network security, I am passionate about building data-intensive applications and real-time analytics systems[cite: 3, 4, 15].
 
-- 🔭 I’m currently working on **Study Quest (EdTech Platform)**
-- 🌱 I’m currently learning **Web Security & Advanced Data Structures**
-- 💬 Ask me about **C++, HTML/CSS, and Student Communities**
+- 🔭 **Current Focus:** Developing a **Systemic Risk Network Visualizer** using network theory and graph analysis.
+- [cite_start]🌱 **Learning:** Advanced Data Structures, Web Security, and **Three.js** for 3D financial topologies[cite: 13, 15].
+- [cite_start]💬 **Ask me about:** **D3.js**, **React/Next.js**, and high-performance system engineering[cite: 13, 53].
 
 ---
 
 ### 🛠️ Technical Arsenal
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyawork121&show_icons=true&theme=radical&hide_border=true" alt="Bhavya's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyawork121&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </div>
 
 ---
@@ -64,23 +54,23 @@ I am a **2nd-year B.Tech Computer Science** student at **K.R. Mangalam Universit
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📚 Study Quest** | A comprehensive web-based educational platform for 8th–10th grade students featuring note-making, curated resources, and embedded lectures. <br> [**Live Demo**](https://mindbender4-0.onrender.com/index.html) | `HTML` `CSS` `JS` |
-| **💼 Job Portal** | **(Contributor)** Open Source contribution involving alignment fixes, view adjustments, and UI enhancements. <br> [**View Repo**](https://github.com/Khushi-Nigam/jobportal) | `Web Dev` `Git` |
+| **📉 Systemic Risk Visualizer** | [cite_start]**(Active Development)** Mapping financial interconnectedness and contagion simulation using graph theory[cite: 13, 24]. | `Next.js` `D3.js` `Tailwind` |
+| **📊 Club Dashboard** | [cite_start]Interactive dashboard for event participation and dynamic data visualization[cite: 23, 25, 26]. | `TypeScript` `D3.js` `Recharts` |
+| **🛡️ Netwatch Sniffer** | [cite_start]High-performance network packet sniffer utilizing a producer-consumer architecture[cite: 17, 19, 20]. | `C++` `Python` `Streamlit` |
 
 ---
 
-### 🏅 Achievements & Community
+### 🏅 Experience & Certifications
 
-* **Hacktoberfest Contributor:** Successfully merged multiple PRs in open-source repos.
-* **GSSOC (GirlScript Summer of Code):** Campus Ambassador & Participant.
-* **RoboRush Competition:** Secured **4th Place** in the Drone Field category.
+* **Open Source Contributor:** Actively contributing to projects during **Hacktoberfest 2025** and **GSSOC**[cite: 36, 42].
+* [cite_start]**Campus Ambassador:** Promoting open-source culture and technical collaboration on campus[cite: 41, 45].
+* [cite_start]**Certifications:** Python & SQL Intermediate (HackerRank), Git & GitHub Essentials[cite: 47, 48].
 
 ---
 
-### 🏆 Badges
+### 🔒 Confidentiality Commitment
+I maintain strict adherence to non-disclosure and intellectual property requirements for proprietary project work. All sensitive repositories are maintained as **PRIVATE** with ownership transferred upon project delivery.
 
 <div align="center">
-  <a href="https://www.holopin.io/userbadge/cmh93jskj007vl404rj3qcauk">
-    <img src="https://img.shields.io/badge/View_Holopin_Badges-41454A?style=for-the-badge&logo=holopin&logoColor=white" alt="Holopin Badges" />
-  </a>
-</div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyawork121&show_icons=true&theme=radical&hide_border=true" alt="Bhavya's Stats" height="160"/>
+</div>
