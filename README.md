@@ -28,7 +28,7 @@ I am a **B.Tech student specializing in Artificial Intelligence and Machine Lear
 **K.R. Mangalam University** with strong foundations in **software development, data structures, and network security**.
 
 I enjoy building **full-stack web applications**, **real-time analytics systems**, and contributing to  
-**open-source projects**. Passionate about solving complex problems and continuously learning new technologies.
+**open-source projects**. Passionate about solving complex problems and continuously learning emerging technologies.
 
 - 🔭 Currently working on **Study Quest (EdTech Platform)**  
 - 🌱 Learning **Advanced Data Structures, Web Security & Systems Programming**  
@@ -69,27 +69,32 @@ I enjoy building **full-stack web applications**, **real-time analytics systems*
 
 | Project | Description | Tech Stack |
 |-------|-------------|-----------|
-| **📚 Study Quest** | Interactive study platform for students with notes, resources & optimized UI. <br> [Live Demo](https://mindbender4-0.onrender.com/index.html) | `HTML` `CSS` `JavaScript` |
-| **🌐 Netwatch Sniffer** | High-performance network packet sniffer with real-time analytics dashboard. | `C++` `libpcap` `Python` |
-| **💼 Job Portal** | **Open Source Contributor** – UI fixes, layout improvements & responsiveness. | `Web Dev` `Git` |
+| **📚 Study Quest** | Interactive study platform for students with notes & optimized UI. <br> [Live Demo](https://mindbender4-0.onrender.com/index.html) | `HTML` `CSS` `JavaScript` |
+| **🌐 Netwatch Sniffer** | High-performance network packet sniffer with real-time analytics. | `C++` `libpcap` `Python` |
+| **💼 Job Portal** | **Open Source Contributor** – UI fixes & responsiveness. | `Web Dev` `Git` |
 
 ---
 
 ## 🏅 Achievements & Community
 
-- 🏆 **Hacktoberfest Contributor** – multiple PRs merged
-- 🌸 **GirlScript Summer of Code (GSSoC)** – Campus Ambassador & Contributor
+- 🏆 **Hacktoberfest Contributor**
+- 🌸 **GirlScript Summer of Code (GSSoC 2025)** – Campus Ambassador & Tech Contributor
 - 🚁 **RoboRush Competition** – 4th Place (Drone Field)
 
 ---
 
-## 🏆 Badges
+## 🏆 Badges & Community Recognition
 
 <div align="center">
-  <a href="https://www.holopin.io/@cmh93jskj007vl404rj3qcauk">
-    <img src="https://holopin.me/cmh93jskj007vl404rj3qcauk"/>
-  </a>
+
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/Badge.png" width="180" alt="Hacktoberfest Holopin"/>
+
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/ggsoc.png" width="180" alt="GSSoC 2025 Campus Ambassador"/>
+
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/ggsoc1.png" width="180" alt="GSSoC 2025 Tech Contributor"/>
+
 </div>
+
 
 
 
