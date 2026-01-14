@@ -56,15 +56,6 @@ I enjoy building **full-stack web applications**, **real-time analytics systems*
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyawork121&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyawork121&layout=compact&theme=radical&hide_border=true" height="160"/>
-</div>
-
----
-
 ## 🧩 Featured Projects
 
 | Project | Description | Tech Stack |
