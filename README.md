@@ -1,63 +1,96 @@
 <div align="center">
+  <h1>Hi there, I'm Bhavya Agarwal! 👋</h1>
+  <h3>🚀 B.Tech AI & ML Student | Full-Stack Developer | Open Source Enthusiast</h3>
 
-# Hi 👋, I'm Bhavya Agarwal
+  <img src="https://komarev.com/ghpvc/?username=bhavyawork121&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 
-I am a **detail-oriented B.Tech student specializing in Artificial Intelligence and Machine Learning**.
-I love building **full-stack web applications**, **real-time analytics systems**, and contributing to
-**open-source projects**. I enjoy solving complex problems, troubleshooting systems, and learning
-new technologies.
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=bhavyawork121&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-
+  <a href="mailto:bhavyawork121@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bhavya-agarwal-5a446b366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Bhavya_works/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/bhavyawwcsu/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## 👩‍💻 About Me
 
-- 🌱 I’m currently building **High-Performance Network Sniffers**
-- 📂 I actively contribute to **Open Source Projects** (Hacktoberfest, GSSoC)
-- ✍️ Passionate about **Software Development, AI/ML & Systems Engineering**
-- 💬 Ask me about **C++, Python, JavaScript, React, SQL, Network Security**
+I am a **B.Tech student specializing in Artificial Intelligence and Machine Learning** at  
+**K.R. Mangalam University** with strong foundations in **software development, data structures, and network security**.
 
-### Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/bhavya-agarwal-5a446b366/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+I enjoy building **full-stack web applications**, **real-time analytics systems**, and contributing to  
+**open-source projects**. Passionate about solving complex problems and continuously learning new technologies.
+
+- 🔭 Currently working on **Study Quest (EdTech Platform)**  
+- 🌱 Learning **Advanced Data Structures, Web Security & Systems Programming**  
+- 💬 Ask me about **C++, Python, JavaScript, React & AI/ML**
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyawork121&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyawork121&layout=compact&theme=radical&hide_border=true" height="160"/>
+</div>
+
+---
+
+## 🧩 Featured Projects
+
+| Project | Description | Tech Stack |
+|-------|-------------|-----------|
+| **📚 Study Quest** | Interactive study platform for students with notes, resources & optimized UI. <br> [Live Demo](https://mindbender4-0.onrender.com/index.html) | `HTML` `CSS` `JavaScript` |
+| **🌐 Netwatch Sniffer** | High-performance network packet sniffer with real-time analytics dashboard. | `C++` `libpcap` `Python` |
+| **💼 Job Portal** | **Open Source Contributor** – UI fixes, layout improvements & responsiveness. | `Web Dev` `Git` |
+
+---
+
+## 🏅 Achievements & Community
+
+- 🏆 **Hacktoberfest Contributor** – multiple PRs merged
+- 🌸 **GirlScript Summer of Code (GSSoC)** – Campus Ambassador & Contributor
+- 🚁 **RoboRush Competition** – 4th Place (Drone Field)
+
+---
+
+## 🏆 Badges
+
+<div align="center">
+  <a href="https://www.holopin.io/@cmh93jskj007vl404rj3qcauk">
+    <img src="https://holopin.me/cmh93jskj007vl404rj3qcauk"/>
   </a>
-  <a href="https://github.com/bhavyawork121" target="_blank">
-    <img src="https://img.icons8.com/color/48/github.png" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/Bhavya_works/" target="_blank">
-    <img src="https://img.icons8.com/color/48/leetcode.png" width="40"/>
-  </a>
-</p>
+</div>
 
-### Languages and Tools:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-</p>
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/codercat.gif" width="90%"/>
-
-</td>
-</tr>
-</table>
 
 
 
