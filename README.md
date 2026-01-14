@@ -1,72 +1,58 @@
 <div align="center">
 
-# 👋 Hi, I'm Bhavya Agarwal
+# Hi 👋, I'm Bhavya Agarwal
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+I am a detail-oriented **B.Tech student specializing in Artificial Intelligence and Machine Learning**. I have strong foundations in software development, data structures, and network security. I love building full-stack web applications, real-time data analytics systems, and contributing to open-source projects.
+
+<img src="https://komarev.com/ghpvc/?username=BhavyaAgarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavya Agarwal" />
+
 </div>
----
 
-### 🚀 Professional Summary
-Detail-oriented B.Tech student specializing in Artificial Intelligence and Machine Learning. 
-Strong foundations in software development, data structures, and network security. 
-Experienced in building full-stack web applications and real-time data analytics.
-
-
----
-
-### 🛠️ Technical Skills
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-| **Core Concepts**| **OOP, DBMS, Data Structures & Algorithms, REST APIs, Network Security** |
-
----
-
-### 📂 Featured Projects
-
-#### 🛡️ **Netwatch Sniffer** | *C++, Python, Libpcap, Streamlit*
-* Developed a high-performance network packet sniffer using C++ and libpcap.
-* Implemented a producer-consumer architecture with structured JSON logs.
-* Built a real-time analytics dashboard using Python and Streamlit.
-* Optimized log handling for large-scale packet data.
-
-#### 📊 **Club Management Dashboard** | *Next.js, TypeScript, D3.js, TailwindCSS*
-* Designed an interactive dashboard for event participation and analytics.
-* Integrated D3.js and Recharts for dynamic visualizations.
-* Developed modular and reusable components with a responsive UI.
-
-#### 📚 **Study Quest Interactive Study App** | *HTML, CSS, JavaScript*
-* Developed a study platform featuring notes and video lessons.
-* Implemented a responsive UI and optimized load time by 30%.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🌱 I’m currently building **High-Performance Network Sniffers**</li>
+        <li>📂 I regularly contribute to **Open Source Projects** like Hacktoberfest and GSSoC</li>
+        <li>💬 Ask me about **C++, Python, React, and AI/ML**</li>
+      </ul>
+      <br>
+      <h3>Connect with me:</h3>
+      <p>
+        <a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bhavya Agarwal" height="30" width="40" /></a>
+        <a href="https://leetcode.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Bhavya Agarwal" height="30" width="40" /></a>
+        <a href="https://github.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Bhavya Agarwal" height="30" width="40" /></a>
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/assets/codercat.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Experience & Open Source
-
-* **Hacktoberfest 2025** (Open Source Contributor)
-    * Improved documentation and UI/UX across repositories.
-    * Created and merged 3+ pull requests using GitHub workflows.
-* **GirlScript Summer of Code** (Campus Ambassador & Participant)
-    * Improved front-end responsiveness for a job portal.
-    * Collaborated with maintainers to resolve bugs.
+### Languages and Tools:
+<p align="left"> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+</p>
 
 ---
 
-### 🎓 Education & Certifications
-* **Bachelor of Technology in AI & ML** - K.R. Mangalam University (Expected 2028)
-* **Senior Secondary (CBSE)** - Vidya Niketan Public School (2023)
-* **Certifications:**
-    * Python & SQL Intermediate (HackerRank)
-    * Git & GitHub Essentials
-    * Web Development Fundamentals
-
----
-
-### 🎯 Career Interests
-* Software Development & Open Source Development
-* Artificial Intelligence & Machine Learning
-* Backend & Systems Engineering
+### 📂 Top Projects
+* **Netwatch Sniffer:** High-performance network packet sniffer using C++ and libpcap.
+* **Club Management Dashboard:** Interactive dashboard using Next.js and D3.js.
+* **Study Quest:** Interactive study app for students.
