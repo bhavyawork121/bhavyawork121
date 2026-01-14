@@ -87,11 +87,11 @@ I enjoy building **full-stack web applications**, **real-time analytics systems*
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/Badge.png" width="180" alt="Hacktoberfest Holopin"/>
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/Badge.jpg" width="100" alt="Hacktoberfest Holopin"/>
 
-<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/ggsoc.png" width="180" alt="GSSoC 2025 Campus Ambassador"/>
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/ggsoc.png" width="100" alt="GSSoC 2025 Campus Ambassador"/>
 
-<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/ggsoc1.png" width="180" alt="GSSoC 2025 Tech Contributor"/>
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/ggsoc1.png" width="100" alt="GSSoC 2025 Tech Contributor"/>
 
 </div>
 
