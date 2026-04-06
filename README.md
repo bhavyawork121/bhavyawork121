@@ -215,33 +215,34 @@ class BhavyaAgarwal:
 ---
 
 ## 🎯 Career Interests
-
+ 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   💻  Software Development & Engineering             ║
-║   🤖  Artificial Intelligence & Machine Learning     ║
-║   ⚙️  Backend & Systems Engineering                  ║
-║   🌍  Open Source Development                        ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
+ 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=400&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=130&lines=%F0%9F%92%BB+Software+Development+%26+Engineering;%F0%9F%A4%96+Artificial+Intelligence+%26+Machine+Learning;%E2%9A%99%EF%B8%8F+Backend+%26+Systems+Engineering;%F0%9F%8C%8D+Open+Source+Development" alt="Career Interests" />
+ 
+<br/>
+ 
+![Software Dev](https://img.shields.io/badge/💻_Software_Development-Engineering-7c3aed?style=for-the-badge&labelColor=1a1a2e)
+![AI ML](https://img.shields.io/badge/🤖_Artificial_Intelligence-Machine_Learning-a855f7?style=for-the-badge&labelColor=1a1a2e)
+ 
+![Backend](https://img.shields.io/badge/⚙️_Backend_&_Systems-Engineering-6d28d9?style=for-the-badge&labelColor=1a1a2e)
+![Open Source](https://img.shields.io/badge/🌍_Open_Source-Development-8b5cf6?style=for-the-badge&labelColor=1a1a2e)
+ 
+<br/>
+ 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6d6d8a&center=true&vCenter=true&width=600&lines=Open+to+internships+%26+collaborations+%F0%9F%9A%80;Let%27s+build+something+amazing+together+%E2%9C%A8" alt="Open to work" />
+ 
 </div>
-
+ 
 ---
-
+ 
 <div align="center">
-
+ 
 ### 💬 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+ 
 <br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
-
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+ 
 </div>
-
-
