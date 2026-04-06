@@ -4,12 +4,19 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Bhavya+Agarwal&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
  
 <!-- Typing Animation -->
+ 
+<br/>
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Dev+%7C+Open+Source;Building+the+future+with+AI+%26+ML;Full-Stack+Web+Development;Real-Time+Systems+%26+Network+Security;Open+Source+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
  
-<br/><br/>
+<br/>
+<br/>
  
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/fced9df5cc4a4b0a50c219007cf12541.gif" alt="coding gif" width="480"/>
+ 
+<br/><br/>
 
 <!-- Social Badges -->
 <a href="mailto:bhavyawork121@gmail.com">
