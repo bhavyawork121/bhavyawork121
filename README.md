@@ -1,14 +1,15 @@
 <div align="center">
-
+ 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhavya%20Agarwal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Bhavya+Agarwal&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+ 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+the+future+with+AI+%26+ML+%F0%9F%A4%96;Full-Stack+Web+Development+%F0%9F%8C%90;Real-Time+Systems+%26+Network+Security+%F0%9F%94%92;Open+Source+Enthusiast+%F0%9F%9A%80;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI+%26+ML+Engineer+%7C+Full-Stack+Dev+%7C+Open+Source;Building+the+future+with+AI+%26+ML;Full-Stack+Web+Development;Real-Time+Systems+%26+Network+Security;Open+Source+Enthusiast;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
-
+ 
 <br/><br/>
+ 
 
 <!-- Social Badges -->
 <a href="mailto:bhavyawork121@gmail.com">
@@ -168,65 +169,6 @@ class BhavyaAgarwal:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bhavyawork121&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=7c3aed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bhavyawork121&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=534AB7&icon_color=7F77DD&text_color=26215C"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhavyawork121&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
-</picture>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyawork121&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyawork121&layout=donut&langs_count=6&theme=default&hide_border=true&title_color=534AB7&text_color=26215C"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyawork121&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=bhavyawork121&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=8892b0"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com?user=bhavyawork121&theme=default&hide_border=true&stroke=7F77DD&ring=534AB7&fire=D85A30&currStreakLabel=534AB7"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="70%" src="https://streak-stats.demolab.com?user=bhavyawork121&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=e2e8f0&dates=8892b0"/>
-</picture>
-
-<br/>
-
-<picture>
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhavyawork121&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=534AB7"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=bhavyawork121&theme=minimal&hide_border=true&color=534AB7&line=7F77DD&point=D85A30&area=true&area_color=AFA9EC"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhavyawork121&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=534AB7"/>
-</picture>
-
-</div>
-
----
-
 ## 🏅 Open Source & Achievements
 
 <div align="center">
@@ -294,6 +236,5 @@ class BhavyaAgarwal:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
-
 
 
