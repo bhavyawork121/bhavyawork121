@@ -14,7 +14,7 @@
 <br/>
 <br/>
  
-<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/8bdd65bfed3e87377a7369610dbfe565.jpg" alt="coding gif" width="480"/>
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/kisspng-computer-icons-download-icon-design-gitlab-social-github-logo-5b4039b1610a66.4943928615309357293975.jpg" alt="coding gif" width="480"/>
  
 <br/><br/>
 
