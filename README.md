@@ -14,7 +14,7 @@
 <br/>
 <br/>
  
-<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/acf6778868690a3b355667c45e8d7567.jpg" alt="coding gif" width="480"/>
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/49b8057f634ef6f16274a9d749c2263a.gif" alt="coding gif" width="480"/>
  
 <br/><br/>
 
