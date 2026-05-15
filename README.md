@@ -13,7 +13,7 @@
 <br/>
 <br/>
  
-<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/Gemini_Generated_Image_p4r1swp4r1swp4r1.png" alt="coding gif" width="480"/>
+<img src="https://raw.githubusercontent.com/bhavyawork121/bhavyawork121/main/Gemini_Generated_Image_xk6dtnxk6dtnxk6d.png" alt="coding gif" width="480"/>
  
 <br/><br/>
 
